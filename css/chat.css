@@ -23,7 +23,9 @@
   background-image: url("../images/chatBg.png");
   min-height: 1000vh;
 }
-
+.chats__chat {
+  margin-top: 10px;
+}
 .chat__write--container {
   position: fixed;
   bottom: 0px;
